@@ -28,3 +28,13 @@ li a:hover {
   background-color: #111;
 }
 
+div.stuck{
+  background-color: green;
+  border: sticky;
+  position: fixed;
+  boder: 5px ;
+  right: 500px;
+  top: 100px;
+  height: 150px;
+  width: 250;
+}
